@@ -7,6 +7,10 @@ I'll be happy if it help you start solve challenges on [Kaggle](http://kaggle.co
 2. `cd lets-start-solve-problem-on-kaggle`
 3. `git fetch`
 
+Run ipython [(jupyter)](https://jupyter.org/) notebook (inside directory `lets-start-solve-problem-on-kaggle`):
+`ipython notebook`.  
+*Note: you need install `ipython` before (and some other needed packages) or just install [anaconda](https://www.continuum.io/downloads).*
+
 After this you will have all three steps (in different branches, initial step is on the `master`).
 
 1. Step 1 is on the branch `step1` (`git checkout step1`)  
