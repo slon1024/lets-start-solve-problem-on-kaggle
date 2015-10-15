@@ -19,6 +19,11 @@ After this you will have all three steps (in different branches, initial step is
 
 *Note: solution is inside this file [bike-sharing-demand.ipynb](https://github.com/slon1024/lets-start-solve-problem-on-kaggle/blob/master/bike-sharing-demand.ipynb). After switched a branch you should refresh your notebook in a browser.*
 
+## Where is `train.csv` file?
+You should download this from Kaggle site ([Bike Sharing Demand - data](https://www.kaggle.com/c/bike-sharing-demand/data)).
+![get data from Kaggle](https://raw.githubusercontent.com/slon1024/lets-start-solve-problem-on-kaggle/master/data.png)
+
+
 ## Quick review scripts
 *Note: github allowing you do a qucik review  (of course readonly). For bigger scripts this works very slowwwwly.*
 
