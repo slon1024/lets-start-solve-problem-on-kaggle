@@ -19,7 +19,7 @@ After this you will have all three steps (in different branches, initial step is
 1. [Step 0 (initial step)](https://github.com/slon1024/lets-start-solve-problem-on-kaggle/blob/master/bike-sharing-demand.ipynb)
 2. [Step 1 (improve evaluation a model)](https://github.com/slon1024/lets-start-solve-problem-on-kaggle/blob/step1/bike-sharing-demand.ipynb)
 3. [Step 2 (understand better data and improve a model)](https://github.com/slon1024/lets-start-solve-problem-on-kaggle/blob/step2/bike-sharing-demand.ipynb)
-4. [Step 3(feature engineering and tuning model)](https://github.com/slon1024/lets-start-solve-problem-on-kaggle/blob/step3/bike-sharing-demand.ipynb)
+4. [Step 3 (feature engineering and tuning model)](https://github.com/slon1024/lets-start-solve-problem-on-kaggle/blob/step3/bike-sharing-demand.ipynb)
 
 
 I recommend to you follow step by step.  
