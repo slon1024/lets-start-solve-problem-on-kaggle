@@ -17,6 +17,8 @@ After this you will have all three steps (in different branches, initial step is
 2. Step 2 is on the branch `step2` (`git checkout step2`)  
 3. Step 3 is on the branch `step3` (`git checkout step3`)  
 
+*Note: solution is inside this file [bike-sharing-demand.ipynb](https://github.com/slon1024/lets-start-solve-problem-on-kaggle/blob/master/bike-sharing-demand.ipynb). After switched a branch you should refresh your notebook in a browser.*
+
 ## Quick review scripts
 *Note: github allowing you do a qucik review  (of course readonly). For bigger scripts this works very slowwwwly.*
 
